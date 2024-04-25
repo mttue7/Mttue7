@@ -12,9 +12,6 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-## 📫 Entre em Contato
-
-- [E-mail](mattanitelli4@gmail.com)
 
 ## 📈 Gráfico de Atividade
 

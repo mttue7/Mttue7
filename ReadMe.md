@@ -11,6 +11,5 @@
 
 ## 📈 Gráfico de Atividade
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mttue7&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mttue7&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mttue7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mttue7&layout=compact&theme=radical)
 

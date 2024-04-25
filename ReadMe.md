@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduado em Engenharia da Computação - finalização prevista 2026
+🎓 Cursando Engenharia da Computação na Pontifícia Universidade de Campinas (PUCC). Sou uma pessoa que gosta de tecnologia e sempre esta buscando novas formas de aprender e inovar. Neste github esta concentrado todo o meu portifólio com as linguagens que utilizo. 
 
 ## 🛠️ Tecnologias e Ferramentas
 

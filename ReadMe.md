@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![ASSEMBLY](https://img.shields.io/badge/_-ASM-701516.svg?style=for-the-badge) ![MIPS Assembly](https://img.shields.io/badge/-MIPS%20-%230071C5.svg?style=for-the-badge&logo=asm-hex&logoColor=white)
+![ASSEMBLY](https://img.shields.io/badge/_-ASM-701516.svg?style=for-the-badge) 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)     ![React](https://img.shields.io/badge/-React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node_js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
